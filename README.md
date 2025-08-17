@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 I am an innovative Mobile App and Full-Stack Developer. I am passionate about driving exceptional user experiences through mobile app and web development, leveraging a rich skill set in software system design, architecture and development.
 
 ### 🎯 Key Skills
-- Mobile: Kotlin | Java | Swift | Flutter | KMP
-- Frontend: TypeScript | React | Vue | Next | Nuxt | Tailwind CSS | Bootstrap 5 | HTML, CSS & JS
+- Mobile: Kotlin | Java | Swift | Dart | Flutter | KMP
+- Frontend: TypeScript | JavaScript | React | Vue | Next | Nuxt | TailwindCSS | HTML & CSS
 - Backend: PHP | Python | Node | Laravel | FastAPI | Flask | Django | Nest.js
 - Databases: PostgreSQL | MySQL | Redis | MongoDB
 - VCS:  Git | GitHub | GitLab | BitBucket
+- CI/CD: GitHub Actions | GitLab CI/CD | Bitbucket Pipelines
+<!-- - Containers: Docker & Kubernetes -->
 
 ### 📜 Certifications 
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d03798d4-e020-401a-9451-122399720200/public_url)
